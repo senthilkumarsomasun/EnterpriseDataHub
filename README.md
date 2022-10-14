@@ -1,6 +1,20 @@
 Orgaized as like :: SNOWFALKE IS TARGET-DB
-# EnterpriseDataHub
-EnterpriseDataHub - Database dbobjects handled all the checkIn/Deployment in snowflake::
+
+</br> DevOps PoC (Database CI/CD Automation) :  GitHub [Repository] à Jenkins [CI/CD Automation] à Liquibase [DB Change Management] à Snowflake
+</br> Schema versioning Change Managements
+</br> Proc Logic versioning Change Managements
+</br> Multiple major/minor releases and deployment use cases
+</br> Roll Back Strategy
+</br> DB Sync
+</br> DB Compare
+</br> DB Snapshot and recreate new DV
+</br> Deployment Reporting and continues Mentoring
+
+
+</br> DATABASE REPO STRUCUTURE::
+
+</br> # EnterpriseDataHub
+</br> EnterpriseDataHub - Database dbobjects handled all the checkIn/Deployment in snowflake::
 
 </br> --ProjectName:EnterpriseDataHub
 </br> --Respoistory:Database
