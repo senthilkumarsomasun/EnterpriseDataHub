@@ -1,6 +1,6 @@
-Orgaized as like :: SNOWFALKE IS TARGET-DB
 
-</br> DevOps PoC (Database CI/CD Automation) :  GitHub [Repository] à Jenkins [CI/CD Automation] à Liquibase [DB Change Management] à Snowflake
+
+</br> DevOps PoC (Database CI/CD Automation) :  GitHub [Repository] --> Jenkins [CI/CD Automation] --> Liquibase [DB Change Management] --> Snowflake [tgt]
 </br> Schema versioning Change Managements
 </br> Proc Logic versioning Change Managements
 </br> Multiple major/minor releases and deployment use cases
